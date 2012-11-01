@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "google-jwt"
-  s.version     = "0.0.1"
+  s.version     = "0.0.5"
   s.authors     = ["Jon Durbin"]
   s.email       = ["jond@greenviewdata.com"]
   s.homepage    = "https://github.com/jondurbin/google-jwt"
